@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Our Coffee
-image: /img/icon-copy.png
+image: /img/screenshot-2020-03-24-at-1.30.20-pm.png
 heading: Great coffee with a conscience
 path: /products
 description: >-
